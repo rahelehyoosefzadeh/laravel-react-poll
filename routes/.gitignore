@@ -1,0 +1,8 @@
+bootstrap/
+config/
+node_modules/
+storage/
+vendor/
+composer*
+*.json
+*.config*
